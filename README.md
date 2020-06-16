@@ -1,0 +1,2 @@
+# food
+My static website
